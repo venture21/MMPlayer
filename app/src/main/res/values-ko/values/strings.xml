@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MMPlayer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_mylist">My List</string>
+    <string name="action_search">Search</string>
+    <string name="menu_title">Title</string>
+    <string name="menu_artists">artists</string>
+    <string name="menu_genre">genre</string>
+    <string name="menu_albums">albums</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
